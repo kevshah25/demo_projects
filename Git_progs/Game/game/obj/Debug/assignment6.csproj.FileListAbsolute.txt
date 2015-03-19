@@ -1,0 +1,65 @@
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\bin\Debug\assignment6.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\bin\Debug\assignment6.exe
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\bin\Debug\assignment6.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6.g.resources
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6.exe
+c:\users\administrator\documents\visual studio 2013\Projects\assignment6\assignment6\obj\Debug\assignment6.pdb
+E:\assignment6\assignment6\bin\Debug\assignment6.exe.config
+E:\assignment6\assignment6\obj\Debug\assignment6.exe
+E:\assignment6\assignment6\obj\Debug\assignment6.pdb
+E:\assignment6\assignment6\bin\Debug\assignment6.exe
+E:\assignment6\assignment6\bin\Debug\assignment6.pdb
+E:\assignment6\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+E:\assignment6\assignment6\obj\Debug\MainWindow.baml
+E:\assignment6\assignment6\obj\Debug\MainWindow.g.cs
+E:\assignment6\assignment6\obj\Debug\App.g.cs
+E:\assignment6\assignment6\obj\Debug\assignment6_MarkupCompile.cache
+E:\assignment6\assignment6\obj\Debug\assignment6.g.resources
+E:\assignment6\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+E:\assignment6\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+F:\assignment6\assignment6\bin\Debug\assignment6.exe.config
+F:\assignment6\assignment6\obj\Debug\assignment6.exe
+F:\assignment6\assignment6\obj\Debug\assignment6.pdb
+F:\assignment6\assignment6\bin\Debug\assignment6.exe
+F:\assignment6\assignment6\bin\Debug\assignment6.pdb
+F:\assignment6\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+F:\assignment6\assignment6\obj\Debug\MainWindow.baml
+F:\assignment6\assignment6\obj\Debug\MainWindow.g.cs
+F:\assignment6\assignment6\obj\Debug\App.g.cs
+F:\assignment6\assignment6\obj\Debug\assignment6_MarkupCompile.cache
+F:\assignment6\assignment6\obj\Debug\assignment6.g.resources
+F:\assignment6\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+F:\assignment6\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\bin\Debug\assignment6.exe.config
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6.exe
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6.pdb
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\bin\Debug\assignment6.exe
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\bin\Debug\assignment6.pdb
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\MainWindow.baml
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\App.g.cs
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6_MarkupCompile.cache
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6.g.resources
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+C:\Users\Kirk Gently\Documents\assignment6\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\bin\Debug\assignment6.exe.config
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6.exe
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6.pdb
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\bin\Debug\assignment6.exe
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\bin\Debug\assignment6.pdb
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\MainWindow.baml
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\MainWindow.g.cs
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\App.g.cs
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6_MarkupCompile.cache
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6.g.resources
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6.Properties.Resources.resources
+C:\Users\Keval\Desktop\C#_Solutions\Assignment 6 Student Solutions\11852-48638 - William Wiltshire - Oct 13, 2014 641 PM - assignment6 (2)\assignment6\assignment6\obj\Debug\assignment6.csproj.GenerateResource.Cache
